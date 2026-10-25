@@ -1,0 +1,5 @@
+variable,missing,nonmissing,total_rows,percent_nonmissing
+gdp_per_capita_ppp,835,6941,7776,89.26183127572017
+co2_per_capita,706,7070,7776,90.92078189300412
+population,0,7776,7776,100
+renewable_electricity_share,2001,5775,7776,74.26697530864197

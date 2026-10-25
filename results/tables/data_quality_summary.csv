@@ -1,0 +1,7 @@
+check,flagged_rows
+Duplicate country-year pairs,0
+Nonpositive GDP-per-capita values,0
+Negative CO2-per-capita values,0
+Nonpositive population values,0
+Renewable-share values below 0,0
+Renewable-share values above 100,0

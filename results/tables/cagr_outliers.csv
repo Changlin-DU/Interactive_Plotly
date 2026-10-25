@@ -1,0 +1,9 @@
+country_name,iso3_code,region,income_group,decoupling_category,gdp_cagr_pct,co2_cagr_pct,outlier_reason
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,No sustained economic growth,-0.6033896657749671,-3.8335648355106944,Bottom 1% of CO2 growth
+Ukraine,UKR,Europe & Central Asia,Upper middle income,Absolute decoupling,1.4133006296619175,-3.8613744087968023,Bottom 1% of CO2 growth
+Libya,LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,No sustained economic growth,-1.5507386048636107,-0.3444912409837797,Bottom 1% of GDP growth
+Sudan,SDN,Sub-Saharan Africa,Low income,No sustained economic growth,-1.9607839812424863,2.733741630437736,Bottom 1% of GDP growth
+Greenland,GRL,Europe & Central Asia,High income,No decoupling,2.078685050575091,31.69609492206045,Top 1% of CO2 growth
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,No decoupling,4.752391615014417,13.904137437066243,Top 1% of CO2 growth
+China,CHN,East Asia & Pacific,Upper middle income,Relative decoupling,7.744406251629088,5.1268758027603,Top 1% of GDP growth
+Guyana,GUY,Latin America & Caribbean,High income,Relative decoupling,8.796629941140788,3.4367914667963406,Top 1% of GDP growth

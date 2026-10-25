@@ -1,0 +1,2 @@
+country_name,iso3_code,year,gdp_per_capita_ppp,co2_per_capita,population,region,decoupling_category,exclusion_reason
+Greenland,GRL,2024,NA,10.4528819762123,56836,Europe & Central Asia,No decoupling,Missing GDP per capita

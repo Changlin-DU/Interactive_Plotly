@@ -1,0 +1,21 @@
+income_group,decoupling_category,countries,income_group_total,percent_within_income_group
+High income,Absolute decoupling,41,65,63.07692307692308
+High income,Relative decoupling,13,65,20
+High income,No decoupling,6,65,9.23076923076923
+High income,No sustained economic growth,5,65,7.6923076923076925
+High income,Unclassified,0,65,0
+Low income,Absolute decoupling,4,20,20
+Low income,Relative decoupling,4,20,20
+Low income,No decoupling,8,20,40
+Low income,No sustained economic growth,4,20,20
+Low income,Unclassified,0,20,0
+Lower middle income,Absolute decoupling,7,43,16.27906976744186
+Lower middle income,Relative decoupling,12,43,27.906976744186046
+Lower middle income,No decoupling,20,43,46.51162790697674
+Lower middle income,No sustained economic growth,4,43,9.30232558139535
+Lower middle income,Unclassified,0,43,0
+Upper middle income,Absolute decoupling,8,54,14.814814814814815
+Upper middle income,Relative decoupling,32,54,59.25925925925926
+Upper middle income,No decoupling,11,54,20.37037037037037
+Upper middle income,No sustained economic growth,3,54,5.555555555555555
+Upper middle income,Unclassified,0,54,0

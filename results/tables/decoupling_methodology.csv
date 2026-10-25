@@ -1,0 +1,11 @@
+setting,value
+baseline_start_year,2000
+baseline_end_year,2002
+final_start_year,2022
+final_end_year,2024
+baseline_reference_year,2001
+final_reference_year,2023
+comparison_years,22
+minimum_observations_per_window,2
+eligible_countries,182
+excluded_countries,8

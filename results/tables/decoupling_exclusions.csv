@@ -1,0 +1,9 @@
+country_id,iso3_code,country_name,region,income_group,baseline_observations,final_observations,baseline_gdp_per_capita,final_gdp_per_capita,baseline_co2_per_capita,final_co2_per_capita,exclusion_reason
+KY,CYM,Cayman Islands,Latin America & Caribbean,High income,0,3,,79104.30412735524,,4.973440234186326,Fewer than two baseline observations
+DJ,DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,3,,6520.827660364514,,0.7636977370706299,Fewer than two baseline observations
+FO,FRO,Faroe Islands,Europe & Central Asia,High income,0,3,,71403.51179548673,,0.0386655377186157,Fewer than two baseline observations
+TC,TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,0,3,,31146.507168870234,,4.8402457204169105,Fewer than two baseline observations
+VI,VIR,Virgin Islands (U.S.),Latin America & Caribbean,High income,1,1,54299.2298699394,46479.2996685326,0.00184316508308067,0.00189729919459649,Fewer than two baseline observations
+SY,SYR,Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",Low income,3,1,8184.08629590943,4579.43973633341,2.69362001040258,1.38747039300249,Fewer than two final-period observations
+NR,NRU,Naoero,East Asia & Pacific,High income,3,3,8204.632752059877,11945.248768981866,0,0,Nonpositive baseline CO2 value
+TV,TUV,Tuvalu,East Asia & Pacific,Upper middle income,3,3,4002.6965998729765,5317.29669736558,0,0,Nonpositive baseline CO2 value

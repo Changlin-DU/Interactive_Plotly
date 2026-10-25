@@ -1,0 +1,2 @@
+1. [Build animation] `line.width` does not currently support multiple values.
+2. [Save long-run explorer] `line.width` does not currently support multiple values.

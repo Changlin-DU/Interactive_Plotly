@@ -1,0 +1,29 @@
+region,decoupling_category,countries,region_total,percent_within_region
+East Asia & Pacific,Absolute decoupling,11,29,37.93103448275862
+East Asia & Pacific,Relative decoupling,10,29,34.48275862068966
+East Asia & Pacific,No decoupling,7,29,24.137931034482758
+East Asia & Pacific,No sustained economic growth,1,29,3.4482758620689653
+Europe & Central Asia,Absolute decoupling,29,47,61.702127659574465
+Europe & Central Asia,Relative decoupling,17,47,36.170212765957444
+Europe & Central Asia,No decoupling,1,47,2.127659574468085
+Europe & Central Asia,No sustained economic growth,0,47,0
+Latin America & Caribbean,Absolute decoupling,3,33,9.090909090909092
+Latin America & Caribbean,Relative decoupling,17,33,51.515151515151516
+Latin America & Caribbean,No decoupling,12,33,36.36363636363637
+Latin America & Caribbean,No sustained economic growth,1,33,3.0303030303030303
+"Middle East, North Africa, Afghanistan & Pakistan",Absolute decoupling,5,19,26.31578947368421
+"Middle East, North Africa, Afghanistan & Pakistan",Relative decoupling,5,19,26.31578947368421
+"Middle East, North Africa, Afghanistan & Pakistan",No decoupling,4,19,21.05263157894737
+"Middle East, North Africa, Afghanistan & Pakistan",No sustained economic growth,5,19,26.31578947368421
+North America,Absolute decoupling,2,3,66.66666666666667
+North America,Relative decoupling,0,3,0
+North America,No decoupling,0,3,0
+North America,No sustained economic growth,1,3,33.333333333333336
+South Asia,Absolute decoupling,0,6,0
+South Asia,Relative decoupling,3,6,50
+South Asia,No decoupling,3,6,50
+South Asia,No sustained economic growth,0,6,0
+Sub-Saharan Africa,Absolute decoupling,10,45,22.22222222222222
+Sub-Saharan Africa,Relative decoupling,9,45,20
+Sub-Saharan Africa,No decoupling,18,45,40
+Sub-Saharan Africa,No sustained economic growth,8,45,17.77777777777778

@@ -1,0 +1,9 @@
+setting,value
+preferred_analysis_start_year,2000
+selected_analysis_end_year,2024
+coverage_threshold_fraction,0.8
+maximum_paired_country_count,190
+minimum_acceptable_paired_country_count,152
+countries_in_metadata,216
+countries_in_core_analysis,190
+core_analysis_rows,4709

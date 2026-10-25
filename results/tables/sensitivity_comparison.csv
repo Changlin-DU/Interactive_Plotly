@@ -1,0 +1,183 @@
+country_id,country_name,primary_category,sensitivity_gdp_cagr_pct,sensitivity_co2_cagr_pct,sensitivity_category,classifications_agree
+AW,Aruba,No decoupling,-3.9514991914124664e-4,1.9603860906712844,No sustained economic growth,FALSE
+BS,"Bahamas, The",No decoupling,-0.33430886313191577,0.938134732150453,No sustained economic growth,FALSE
+BB,Barbados,No decoupling,-0.4118253084756107,0.28001263209611604,No sustained economic growth,FALSE
+BZ,Belize,No decoupling,-0.0699568352647284,2.309283787483407,No sustained economic growth,FALSE
+BG,Bulgaria,Relative decoupling,4.052743266322545,-0.008578502954892375,Absolute decoupling,FALSE
+CM,Cameroon,Absolute decoupling,0.9721024254681021,0.1848675504287689,Relative decoupling,FALSE
+HR,Croatia,Relative decoupling,2.4045863089954267,-0.31332932963877846,Absolute decoupling,FALSE
+GE,Georgia,Relative decoupling,5.862876484026369,6.1269530673526695,No decoupling,FALSE
+IT,Italy,Absolute decoupling,-0.03698870242884178,-2.165817691580074,No sustained economic growth,FALSE
+KE,Kenya,Relative decoupling,1.9505047931608344,2.2573683317289372,No decoupling,FALSE
+MV,Maldives,Relative decoupling,1.6797265881370649,1.9715703281213637,No decoupling,FALSE
+FM,"Micronesia, Fed. Sts.",Absolute decoupling,0.34091890156686677,0.005781290182627075,Relative decoupling,FALSE
+NI,Nicaragua,Relative decoupling,1.8556331531000447,-0.19966793362236057,Absolute decoupling,FALSE
+WS,Samoa,Relative decoupling,1.488852983797151,1.713739982450635,No decoupling,FALSE
+SL,Sierra Leone,Relative decoupling,1.7954488146756153,2.068101771340358,No decoupling,FALSE
+TL,Timor-Leste,No decoupling,2.102367925422133,1.3726205898173527,Relative decoupling,FALSE
+AF,Afghanistan,No decoupling,1.2614968110516322,9.859714272025455,No decoupling,TRUE
+AL,Albania,Relative decoupling,4.7657338011768635,1.9116513477073216,Relative decoupling,TRUE
+DZ,Algeria,No decoupling,0.9323706443430391,1.7232723479611467,No decoupling,TRUE
+AO,Angola,Absolute decoupling,0.87157435764742,-1.4660380812469564,Absolute decoupling,TRUE
+AG,Antigua and Barbuda,No decoupling,0.40469468455615054,3.2202981907936135,No decoupling,TRUE
+AR,Argentina,Relative decoupling,1.2229704727829471,0.6575198099195934,Relative decoupling,TRUE
+AM,Armenia,Relative decoupling,5.6853224047453965,4.191068837213741,Relative decoupling,TRUE
+AU,Australia,Absolute decoupling,1.1956339747430045,-1.2533429801545481,Absolute decoupling,TRUE
+AT,Austria,Absolute decoupling,0.7535632753306265,-1.4448864366346403,Absolute decoupling,TRUE
+AZ,Azerbaijan,Relative decoupling,5.76566202299722,0.4138950666874308,Relative decoupling,TRUE
+BH,Bahrain,Absolute decoupling,0.07829434285351322,-0.35825796865871506,Absolute decoupling,TRUE
+BD,Bangladesh,No decoupling,5.112759932809552,5.394695326117471,No decoupling,TRUE
+BY,Belarus,Relative decoupling,3.9201088563061814,0.30756919851482323,Relative decoupling,TRUE
+BE,Belgium,Absolute decoupling,0.873368266564456,-2.1486361431055534,Absolute decoupling,TRUE
+BJ,Benin,No decoupling,1.6114324198417629,3.4085265437620693,No decoupling,TRUE
+BM,Bermuda,No sustained economic growth,-0.3311928455791091,1.9661635618793305,No sustained economic growth,TRUE
+BT,Bhutan,No decoupling,4.438926039736102,4.957043151518614,No decoupling,TRUE
+BO,Bolivia,No decoupling,1.9544376477513836,3.50233027630642,No decoupling,TRUE
+BA,Bosnia and Herzegovina,Relative decoupling,4.1208305856879734,3.2578957779094253,Relative decoupling,TRUE
+BW,Botswana,Relative decoupling,1.4484939389404428,0.728612032190612,Relative decoupling,TRUE
+BR,Brazil,Relative decoupling,1.3092191741595371,0.7291995850901678,Relative decoupling,TRUE
+BN,Brunei Darussalam,No sustained economic growth,-1.2891573072856821,0.933356959342535,No sustained economic growth,TRUE
+BF,Burkina Faso,No decoupling,2.504211342846019,6.269685381391121,No decoupling,TRUE
+BI,Burundi,No decoupling,0.06721645115117525,3.6986193073991203,No decoupling,TRUE
+CV,Cabo Verde,Relative decoupling,2.9621178612491583,2.743015439978902,Relative decoupling,TRUE
+KH,Cambodia,No decoupling,5.626426519222982,9.578750027268224,No decoupling,TRUE
+CA,Canada,Absolute decoupling,0.6984672352472021,-1.0080314047796413,Absolute decoupling,TRUE
+CF,Central African Republic,No sustained economic growth,-0.49685097369915887,-0.21994129694620224,No sustained economic growth,TRUE
+TD,Chad,No decoupling,1.4927308782016313,7.562663020951144,No decoupling,TRUE
+CL,Chile,Relative decoupling,2.264544226467824,1.184037095985735,Relative decoupling,TRUE
+CN,China,Relative decoupling,7.8015025241639835,4.939914018929703,Relative decoupling,TRUE
+CO,Colombia,Relative decoupling,2.3793775409274964,0.6869644335028013,Relative decoupling,TRUE
+KM,Comoros,No decoupling,0.6777941216014716,4.42412485275161,No decoupling,TRUE
+CD,"Congo, Dem. Rep.",Relative decoupling,2.21262273132361,1.825758450367121,Relative decoupling,TRUE
+CG,"Congo, Rep.",No sustained economic growth,-0.9928478147923303,0.6659662666682387,No sustained economic growth,TRUE
+CR,Costa Rica,Relative decoupling,2.7429012784025986,0.5694890567299993,Relative decoupling,TRUE
+CI,Cote d'Ivoire,No decoupling,1.798390021204499,2.2972456538596475,No decoupling,TRUE
+CY,Cyprus,Absolute decoupling,1.3084811025952048,-1.703793590020497,Absolute decoupling,TRUE
+CZ,Czechia,Absolute decoupling,2.1046789736645755,-2.030055420034982,Absolute decoupling,TRUE
+DK,Denmark,Absolute decoupling,0.8344774026018076,-3.868601261207849,Absolute decoupling,TRUE
+DM,Dominica,No decoupling,0.91106377946093,2.043336852834643,No decoupling,TRUE
+DO,Dominican Republic,Relative decoupling,3.5931059736932225,1.2593541779767348,Relative decoupling,TRUE
+EC,Ecuador,Relative decoupling,1.7449550169938988,1.3390004560772883,Relative decoupling,TRUE
+EG,"Egypt, Arab Rep.",Relative decoupling,2.3290665449830605,1.1196813715123932,Relative decoupling,TRUE
+SV,El Salvador,Relative decoupling,1.7760258832171028,1.1590163912827078,Relative decoupling,TRUE
+GQ,Equatorial Guinea,No sustained economic growth,-1.0382126841376627,-2.762713519894211,No sustained economic growth,TRUE
+EE,Estonia,Absolute decoupling,2.9076925291088074,-1.8939671019872373,Absolute decoupling,TRUE
+SZ,Eswatini,Absolute decoupling,2.2861151911309996,-0.7939732828395218,Absolute decoupling,TRUE
+ET,Ethiopia,Relative decoupling,6.011118054999587,3.998319807747386,Relative decoupling,TRUE
+FJ,Fiji,Absolute decoupling,1.2626864979664587,-1.0379714781588945,Absolute decoupling,TRUE
+FI,Finland,Absolute decoupling,0.69185128259035,-3.3323183108355026,Absolute decoupling,TRUE
+FR,France,Absolute decoupling,0.628419495219279,-2.041324982979875,Absolute decoupling,TRUE
+GA,Gabon,No sustained economic growth,-0.6078927621820496,-4.023818627270548,No sustained economic growth,TRUE
+GM,"Gambia, The",Absolute decoupling,0.3288969112440032,-0.4822527659536058,Absolute decoupling,TRUE
+DE,Germany,Absolute decoupling,1.0795688220592403,-1.6862443765202184,Absolute decoupling,TRUE
+GH,Ghana,No decoupling,3.398085639452053,3.9642873223476593,No decoupling,TRUE
+GR,Greece,Absolute decoupling,0.060506205495092225,-2.907571550944299,Absolute decoupling,TRUE
+GL,Greenland,No decoupling,2.078338894973286,7.973535488207895,No decoupling,TRUE
+GD,Grenada,No decoupling,1.5088055561196967,4.5680734586089455,No decoupling,TRUE
+GT,Guatemala,Relative decoupling,1.5276925276120012,1.2555657925752195,Relative decoupling,TRUE
+GN,Guinea,No decoupling,2.2536706724895383,3.3356753859803634,No decoupling,TRUE
+GW,Guinea-Bissau,Absolute decoupling,1.2852632444690926,-0.597971739766856,Absolute decoupling,TRUE
+GY,Guyana,Relative decoupling,8.189567663868292,3.580569343471862,Relative decoupling,TRUE
+HT,Haiti,No sustained economic growth,-0.2491333322093059,1.7282954779189064,No sustained economic growth,TRUE
+HN,Honduras,Relative decoupling,1.4547227446430222,0.6299646105631052,Relative decoupling,TRUE
+HK,"Hong Kong SAR, China",Absolute decoupling,2.248465660017218,-1.5768484667700644,Absolute decoupling,TRUE
+HU,Hungary,Absolute decoupling,2.448980548052604,-1.0311000048826013,Absolute decoupling,TRUE
+IS,Iceland,Absolute decoupling,1.1466998542286388,-1.1286648784527342,Absolute decoupling,TRUE
+IN,India,Relative decoupling,4.845420297804548,3.569774671644055,Relative decoupling,TRUE
+ID,Indonesia,Relative decoupling,3.7399525418375212,2.6671089301419926,Relative decoupling,TRUE
+IR,"Iran, Islamic Rep.",No decoupling,1.3139054801216465,2.209169193406657,No decoupling,TRUE
+IQ,Iraq,No decoupling,0.9781462683571274,1.631199607334688,No decoupling,TRUE
+IE,Ireland,Absolute decoupling,3.5622976719608124,-2.7010414353836,Absolute decoupling,TRUE
+IL,Israel,Absolute decoupling,1.8115847153491238,-1.9595921863632348,Absolute decoupling,TRUE
+JM,Jamaica,Absolute decoupling,0.43170942720063277,-2.214508626992495,Absolute decoupling,TRUE
+JP,Japan,Absolute decoupling,0.734853594936502,-0.8812966083751483,Absolute decoupling,TRUE
+JO,Jordan,Absolute decoupling,0.40631039865217655,-2.068336629939871,Absolute decoupling,TRUE
+KZ,Kazakhstan,Relative decoupling,3.8313708013429038,1.2791286704542104,Relative decoupling,TRUE
+KI,Kiribati,No decoupling,1.4228358631571902,1.6930361956955409,No decoupling,TRUE
+KR,"Korea, Rep.",Relative decoupling,3.031451448168032,0.6562083377699146,Relative decoupling,TRUE
+KW,Kuwait,No sustained economic growth,-1.3140371180228705,-1.4369774820154113,No sustained economic growth,TRUE
+KG,Kyrgyz Republic,Relative decoupling,2.407052044488145,1.9209691302649379,Relative decoupling,TRUE
+LA,Lao PDR,No decoupling,4.918804995268,14.817343174156106,No decoupling,TRUE
+LV,Latvia,Relative decoupling,3.8306950401224116,0.6211755909081074,Relative decoupling,TRUE
+LB,Lebanon,No sustained economic growth,-0.2723255025752658,-1.938294093656423,No sustained economic growth,TRUE
+LS,Lesotho,No decoupling,1.1595553761520438,3.605381218623571,No decoupling,TRUE
+LR,Liberia,No sustained economic growth,-0.23468326771731718,0.11012828234129302,No sustained economic growth,TRUE
+LY,Libya,No sustained economic growth,-2.010799942301844,-0.7158072847413655,No sustained economic growth,TRUE
+LT,Lithuania,Relative decoupling,4.611669283603459,1.4001672124957398,Relative decoupling,TRUE
+LU,Luxembourg,Absolute decoupling,0.5167698050210223,-3.2854051792309047,Absolute decoupling,TRUE
+MO,"Macao SAR, China",Absolute decoupling,1.1340172113236457,-1.6910968141460092,Absolute decoupling,TRUE
+MG,Madagascar,No sustained economic growth,-0.07852332498412551,2.169811979591141,No sustained economic growth,TRUE
+MW,Malawi,Absolute decoupling,1.7013292233927224,-0.12607749463868778,Absolute decoupling,TRUE
+MY,Malaysia,Relative decoupling,2.58432955121084,1.2447884624455785,Relative decoupling,TRUE
+ML,Mali,No decoupling,0.7241360548913223,7.790559036431732,No decoupling,TRUE
+MT,Malta,Absolute decoupling,3.0582707579550616,-3.1888677017137157,Absolute decoupling,TRUE
+MH,Marshall Islands,Relative decoupling,2.7219524097412684,1.2523161061550159,Relative decoupling,TRUE
+MR,Mauritania,No decoupling,1.053087917144091,3.8074582454757477,No decoupling,TRUE
+MU,Mauritius,Relative decoupling,2.883981074835451,2.0065240582880284,Relative decoupling,TRUE
+MX,Mexico,Absolute decoupling,0.2732470398725484,-0.6021346552238072,Absolute decoupling,TRUE
+MD,Moldova,Relative decoupling,4.32436196169137,1.4754450799419283,Relative decoupling,TRUE
+MN,Mongolia,Relative decoupling,4.65457968278622,3.3803292025437415,Relative decoupling,TRUE
+MA,Morocco,Relative decoupling,2.245034133607593,1.8987365876091955,Relative decoupling,TRUE
+MZ,Mozambique,No decoupling,2.933792425503623,4.979792748341305,No decoupling,TRUE
+MM,Myanmar,Relative decoupling,5.96520010260706,5.279128285721013,Relative decoupling,TRUE
+NP,Nepal,No decoupling,3.4051114204220356,7.4353740050684625,No decoupling,TRUE
+NL,Netherlands,Absolute decoupling,0.9946687756402506,-2.032719147754547,Absolute decoupling,TRUE
+NZ,New Zealand,Absolute decoupling,1.216694341608271,-1.5658666668160626,Absolute decoupling,TRUE
+NE,Niger,No decoupling,1.6123228404602674,3.3183057042068587,No decoupling,TRUE
+NG,Nigeria,Absolute decoupling,1.692968440060394,-1.4935921709416156,Absolute decoupling,TRUE
+MK,North Macedonia,Absolute decoupling,3.229984942059283,-0.3247612697562796,Absolute decoupling,TRUE
+NO,Norway,Absolute decoupling,0.8268852087480294,-0.9602540816746608,Absolute decoupling,TRUE
+OM,Oman,No sustained economic growth,-0.5038024929499119,2.0146932601776024,No sustained economic growth,TRUE
+PK,Pakistan,Relative decoupling,1.986699207060738,1.1467171087224282,Relative decoupling,TRUE
+PW,Palau,Absolute decoupling,0.22099703457383324,-0.9786968724441403,Absolute decoupling,TRUE
+PA,Panama,Relative decoupling,4.035262204657397,1.8947827964574282,Relative decoupling,TRUE
+PG,Papua New Guinea,Absolute decoupling,1.3704305110998627,-1.075811883000699,Absolute decoupling,TRUE
+PY,Paraguay,Relative decoupling,2.293321359784861,2.2750255522193896,Relative decoupling,TRUE
+PE,Peru,Relative decoupling,3.2438656027097945,2.7767940767132737,Relative decoupling,TRUE
+PH,Philippines,Relative decoupling,3.293389311751005,2.1068188000117116,Relative decoupling,TRUE
+PL,Poland,Absolute decoupling,3.9513952103576777,-0.06444602232212882,Absolute decoupling,TRUE
+PT,Portugal,Absolute decoupling,0.629420830555727,-2.5878543323465952,Absolute decoupling,TRUE
+PR,Puerto Rico (US),Absolute decoupling,0.24706617293759336,-2.0036378367529695,Absolute decoupling,TRUE
+QA,Qatar,Absolute decoupling,0.5412612519846149,-0.4731684936688185,Absolute decoupling,TRUE
+RO,Romania,Absolute decoupling,4.184319092543776,-0.9712115590645332,Absolute decoupling,TRUE
+RU,Russian Federation,Relative decoupling,2.7386210528759003,0.6215390678383947,Relative decoupling,TRUE
+RW,Rwanda,Relative decoupling,4.599086410784858,2.7218664542447035,Relative decoupling,TRUE
+ST,Sao Tome and Principe,No decoupling,1.7087673083914456,2.079254154318133,No decoupling,TRUE
+SA,Saudi Arabia,Relative decoupling,0.8470092463739531,0.6889486426639335,Relative decoupling,TRUE
+SN,Senegal,No decoupling,1.5046560185641322,2.7470613366618934,No decoupling,TRUE
+SC,Seychelles,Absolute decoupling,2.0026717172518804,-1.475559325613951,Absolute decoupling,TRUE
+SG,Singapore,Absolute decoupling,3.0761950685638917,-0.5132668460610668,Absolute decoupling,TRUE
+SK,Slovak Republic,Absolute decoupling,3.3648432004760975,-1.2941529272969876,Absolute decoupling,TRUE
+SI,Slovenia,Absolute decoupling,1.880537132450466,-1.4240557487575023,Absolute decoupling,TRUE
+SB,Solomon Islands,Absolute decoupling,0.6593983997548625,-1.8334280205409614,Absolute decoupling,TRUE
+SO,"Somalia, Fed. Rep.",Absolute decoupling,3.1505788330441042,-2.2556268677170532,Absolute decoupling,TRUE
+ZA,South Africa,Absolute decoupling,0.7518678845488624,-0.5544682615565732,Absolute decoupling,TRUE
+ES,Spain,Absolute decoupling,0.468311943068489,-2.542823747044498,Absolute decoupling,TRUE
+LK,Sri Lanka,Relative decoupling,3.725276649178322,2.494667380854687,Relative decoupling,TRUE
+KN,St. Kitts and Nevis,No decoupling,1.7677170860441072,3.977333005745143,No decoupling,TRUE
+LC,St. Lucia,No decoupling,0.7794550424752522,4.750115739990757,No decoupling,TRUE
+VC,St. Vincent and the Grenadines,No decoupling,2.2818431325080546,4.846546102095539,No decoupling,TRUE
+SD,Sudan,No sustained economic growth,-1.597905930725152,2.809554905095446,No sustained economic growth,TRUE
+SR,Suriname,No decoupling,0.5057103908858718,2.2507711280617126,No decoupling,TRUE
+SE,Sweden,Absolute decoupling,1.1112776288177306,-2.903079148866883,Absolute decoupling,TRUE
+CH,Switzerland,Absolute decoupling,0.9681021473820994,-2.2227627487593327,Absolute decoupling,TRUE
+TJ,Tajikistan,Relative decoupling,4.953932443830356,3.8099173108226303,Relative decoupling,TRUE
+TZ,Tanzania,No decoupling,2.9642684104300487,5.383394939213404,No decoupling,TRUE
+TH,Thailand,Relative decoupling,2.515496452047339,1.214348101645557,Relative decoupling,TRUE
+TG,Togo,Relative decoupling,1.42589015015393,1.0787793727441874,Relative decoupling,TRUE
+TO,Tonga,No decoupling,0.8130681524871175,2.486635344840793,No decoupling,TRUE
+TT,Trinidad and Tobago,Relative decoupling,1.5727933699688723,0.6560892896003923,Relative decoupling,TRUE
+TN,Tunisia,Relative decoupling,1.338167675022106,0.7206839569878776,Relative decoupling,TRUE
+TR,Turkiye,Relative decoupling,4.036177992124079,2.3270209398045916,Relative decoupling,TRUE
+TM,Turkmenistan,Relative decoupling,6.142398484939715,1.4668669768601816,Relative decoupling,TRUE
+UG,Uganda,No decoupling,2.773252548704752,5.029602245048603,No decoupling,TRUE
+UA,Ukraine,Absolute decoupling,1.3301174028206963,-3.622127745064485,Absolute decoupling,TRUE
+AE,United Arab Emirates,No sustained economic growth,-1.3859063610841105,-1.4433054297075754,No sustained economic growth,TRUE
+GB,United Kingdom,Absolute decoupling,0.6790209220741694,-3.4323105110150465,Absolute decoupling,TRUE
+US,United States,Absolute decoupling,1.2858766724582527,-1.8774356967810268,Absolute decoupling,TRUE
+UY,Uruguay,Relative decoupling,2.7748201131280403,2.1466995713576242,Relative decoupling,TRUE
+UZ,Uzbekistan,Absolute decoupling,5.206057982838597,-1.5420116661073013,Absolute decoupling,TRUE
+VU,Vanuatu,No decoupling,0.2770906859505873,2.9702146860915546,No decoupling,TRUE
+VN,Viet Nam,No decoupling,5.040178772860826,7.250607516465046,No decoupling,TRUE
+ZM,Zambia,No decoupling,2.1620703867446744,4.982960316288665,No decoupling,TRUE
+ZW,Zimbabwe,No sustained economic growth,-0.39890868184967454,-1.9926317993389842,No sustained economic growth,TRUE

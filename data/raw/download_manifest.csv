@@ -1,0 +1,5 @@
+indicator_code,short_name,expected_indicator,api_indicator_name,requested_start_year,requested_end_year,earliest_nonmissing_year,latest_nonmissing_year,total_rows,nonmissing_values,raw_file,downloaded_at_utc
+EG.ELC.RNEW.ZS,renewable_electricity_share,Renewable electricity output (% of total electricity output),Renewable electricity output (% of total electricity output),1990,2025,1990,2021,9576,7323,data/raw/renewable_electricity_share.csv,2026-10-25 23:39:58 UTC
+EN.GHG.CO2.PC.CE.AR5,co2_per_capita,Carbon dioxide emissions excluding LULUCF per capita (t CO2e/capita),Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),1990,2025,1990,2024,9576,8785,data/raw/co2_per_capita.csv,2026-10-25 23:39:58 UTC
+NY.GDP.PCAP.PP.KD,gdp_per_capita_ppp,"GDP per capita, PPP (constant 2021 international $)","GDP per capita, PPP (constant 2021 international $)",1990,2025,1990,2025,9576,8705,data/raw/gdp_per_capita_ppp.csv,2026-10-25 23:39:58 UTC
+SP.POP.TOTL,population,"Population, total","Population, total",1990,2025,1990,2025,9576,9540,data/raw/population.csv,2026-10-25 23:39:58 UTC

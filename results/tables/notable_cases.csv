@@ -1,0 +1,31 @@
+notable_case,country_name,iso3_code,region,income_group,decoupling_category,gdp_total_change_pct,co2_total_change_pct,gdp_cagr_pct,co2_cagr_pct,carbon_intensity_change_pct
+Highest GDP-per-capita growth,Armenia,ARM,Europe & Central Asia,Upper middle income,Relative decoupling,273.3788655272186,137.42146493791105,6.171219555769714,4.0085615353996795,-36.41271993189357
+Highest GDP-per-capita growth,Azerbaijan,AZE,Europe & Central Asia,Upper middle income,Relative decoupling,247.88429858525524,14.26287603440799,5.830457603119665,0.6078926587611333,-67.15492004120853
+Highest GDP-per-capita growth,Cambodia,KHM,East Asia & Pacific,Lower middle income,No decoupling,231.64038161741956,540.6962053610737,5.600676474362909,8.80929762653384,93.19004586726744
+Highest GDP-per-capita growth,China,CHN,East Asia & Pacific,Upper middle income,Relative decoupling,416.04088209622176,200.40190193322368,7.744406251629088,5.1268758027603,-41.78718927985821
+Highest GDP-per-capita growth,Ethiopia,ETH,Sub-Saharan Africa,Low income,Relative decoupling,232.24662042053916,125.83750235923232,5.6094432870430255,3.772346996019693,-32.02714836545822
+Highest GDP-per-capita growth,Georgia,GEO,Europe & Central Asia,Upper middle income,Relative decoupling,271.0871621659539,243.3155824304167,6.14151190955976,5.766882897448733,-7.48384276444396
+Highest GDP-per-capita growth,Guyana,GUY,Latin America & Caribbean,High income,Relative decoupling,539.0572191800641,110.30562696795296,8.796629941140788,3.4367914667963406,-67.09126809680932
+Highest GDP-per-capita growth,Myanmar,MMR,East Asia & Pacific,Lower middle income,Relative decoupling,253.78290146975587,186.04370180738155,5.9113694600466005,4.893101476289519,-19.147109535525463
+Highest GDP-per-capita growth,Tajikistan,TJK,Europe & Central Asia,Lower middle income,Relative decoupling,203.59791580194076,113.36512510039968,5.177458436106841,3.5047203038021335,-29.721149587998685
+Highest GDP-per-capita growth,Turkmenistan,TKM,Europe & Central Asia,Upper middle income,Relative decoupling,246.28763296223565,43.66276933637325,5.808330718283239,1.6604459871685018,-58.513456542630735
+Largest CO2-per-capita decline,Denmark,DNK,Europe & Central Asia,High income,Absolute decoupling,20.51877084459899,-55.348664936360905,0.8519510280784237,-3.598590456483741,-62.950721492825345
+Largest CO2-per-capita decline,Finland,FIN,Europe & Central Asia,High income,Absolute decoupling,17.489681808570356,-49.71371564507229,0.7353282180126763,-3.076402624223795,-57.19940374265313
+Largest CO2-per-capita decline,Gabon,GAB,Sub-Saharan Africa,Upper middle income,No sustained economic growth,-12.46643198988352,-57.68275552797479,-0.6033896657749671,-3.8335648355106944,-51.65598131777915
+Largest CO2-per-capita decline,Ireland,IRL,Europe & Central Asia,High income,Absolute decoupling,115.3401588791675,-45.31279251705082,3.5480790967306275,-2.706076819952752,-74.60426900045361
+Largest CO2-per-capita decline,Lebanon,LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,No sustained economic growth,-6.120323922221315,-49.116849645256664,-0.28666227042624115,-3.024404716951079,-45.799610223849754
+Largest CO2-per-capita decline,Luxembourg,LUX,Europe & Central Asia,High income,Absolute decoupling,12.004517011914162,-49.68736099636584,0.5166437290391235,-3.074094251573445,-55.07981254159392
+Largest CO2-per-capita decline,Malta,MLT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Absolute decoupling,93.5156041113922,-44.63051941904915,3.0463338036956333,-2.6512285684291093,-71.38758869849129
+Largest CO2-per-capita decline,Sweden,SWE,Europe & Central Asia,High income,Absolute decoupling,28.59813418794237,-45.96381618240984,1.1498428005998873,-2.7590253375611495,-57.980584898208654
+Largest CO2-per-capita decline,Ukraine,UKR,Europe & Central Asia,Upper middle income,Absolute decoupling,36.17211657700909,-57.951161833490296,1.4133006296619175,-3.8613744087968023,-69.12081619680933
+Largest CO2-per-capita decline,United Kingdom,GBR,Europe & Central Asia,High income,Absolute decoupling,20.211020861548555,-52.074071106403395,0.8402308336317388,-3.2879745078772005,-60.13183437748635
+Largest CO2-per-capita increase,Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low income,No decoupling,22.362238261533985,499.9829300642991,0.9215642459331042,8.485064055535263,390.333405622992
+Largest CO2-per-capita increase,Burkina Faso,BFA,Sub-Saharan Africa,Low income,No decoupling,70.52257148228402,245.80995365632015,2.4555619505359783,5.801692023317795,102.79424046349617
+Largest CO2-per-capita increase,Cambodia,KHM,East Asia & Pacific,Lower middle income,No decoupling,231.64038161741956,540.6962053610737,5.600676474362909,8.80929762653384,93.19004586726744
+Largest CO2-per-capita increase,Chad,TCD,Sub-Saharan Africa,Low income,No decoupling,51.18686950157121,428.8588728730954,1.896608818744605,7.86463583935888,249.80476453849664
+Largest CO2-per-capita increase,Georgia,GEO,Europe & Central Asia,Upper middle income,Relative decoupling,271.0871621659539,243.3155824304167,6.14151190955976,5.766882897448733,-7.48384276444396
+Largest CO2-per-capita increase,Greenland,GRL,Europe & Central Asia,High income,No decoupling,57.24305500177842,42617.2948219549,2.078685050575091,31.69609492206045,27066.411147043516
+Largest CO2-per-capita increase,Lao PDR,LAO,East Asia & Pacific,Lower middle income,No decoupling,177.71979629594114,1653.351509217887,4.752391615014417,13.904137437066243,531.3383246722163
+Largest CO2-per-capita increase,Mali,MLI,Sub-Saharan Africa,Low income,No decoupling,21.00065016680923,342.8926551241857,0.8702454130804282,6.998380298694196,266.0250209512281
+Largest CO2-per-capita increase,Nepal,NPL,South Asia,Lower middle income,No decoupling,105.63841939742488,286.97059833169766,3.33132818262305,6.34391263435008,88.18010732898267
+Largest CO2-per-capita increase,Viet Nam,VNM,East Asia & Pacific,Upper middle income,No decoupling,197.98708798993783,372.5748387688412,5.088315196861903,7.314338857396563,58.589032147862305

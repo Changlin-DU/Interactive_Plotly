@@ -1,0 +1,7 @@
+"run_id","step","name","script","status","started_utc","finished_utc","elapsed_seconds","warning_count","message"
+"20261025T233958Z",1,"Packages and API connection","code/00_packages.R","completed","2026-10-25 23:39:58 UTC","2026-10-25 23:39:58 UTC",0.39,0,"Completed with all required outputs present."
+"20261025T233958Z",2,"Download World Bank data","code/01_download_world_bank.R","completed","2026-10-25 23:39:58 UTC","2026-10-25 23:40:02 UTC",4.15,0,"Completed with all required outputs present."
+"20261025T233958Z",3,"Clean and merge data","code/02_clean_merge_data.R","completed","2026-10-25 23:40:02 UTC","2026-10-25 23:40:03 UTC",0.72,0,"Completed with all required outputs present."
+"20261025T233958Z",4,"Measure decoupling","code/03_measure_decoupling.R","completed","2026-10-25 23:40:03 UTC","2026-10-25 23:40:03 UTC",0.18,0,"Completed with all required outputs present."
+"20261025T233958Z",5,"Explore and validate results","code/04_explore_validate.R","completed","2026-10-25 23:40:03 UTC","2026-10-25 23:40:05 UTC",1.25,0,"Completed with all required outputs present."
+"20261025T233958Z",6,"Build interactive Plotly files","code/05_build_interactive_plot.R","completed","2026-10-25 23:40:05 UTC","2026-10-25 23:40:08 UTC",3.38,0,"Completed with all required outputs present."
